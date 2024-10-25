@@ -13,3 +13,5 @@ This is one of favourite python projects so far.
 4. turtleRace.py is a game of 6 turtles racing. User bet on a color that they think would win
 
 5. table_example.py is just me trying to see how importing from external libriaries in PyCharm work
+
+6. Mail merge challenge is a simple project that showcases python's ability to read, write and create files
